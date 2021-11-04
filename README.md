@@ -8,6 +8,6 @@
 - [Criando módulos](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/exports.js)
 - [Pegando informações do processo](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/process.js)
 - [Passando flags como argumento](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/flags.js)
-- [Apresentação do desafio](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave/group/iniciando-na-pratica/lesson/apresentacao-do-desafio)
+- [Apresentação do desafio]
 - [Resolução do desafio](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/greetings.js)
-- [Finalizando o módulo]()
+- [Finalizando o módulo]
