@@ -12,7 +12,7 @@
 - [Resolução do desafio](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/greetings.js)
 - Finalizando o módulo
 
-# Módulo Node package manager
+# Módulo Npm Node package manager
 
 - Npm
 - Iniciando um pacote com npm
