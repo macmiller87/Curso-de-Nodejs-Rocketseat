@@ -9,7 +9,7 @@ const questions = [
 
 ]
 
-const ask = (index = 0) => {  // Arrow function que está sendo passado como parametro o nome do aruivo index, a posição 0, e chamando a o array question[index], ou seja estamos pegando aqui a 1 posição do array, e quebrando linha com o \n .
+const ask = (index = 0) => {  // Arrow function que está sendo passado como parametro o nome do arquivo index, a posição 0, e chamando a o array question[index], ou seja estamos pegando aqui a 1 posição do array, e quebrando linha com o \n .
 
     process.stdout.write("\n\n" + questions[index] + " > ");
     
@@ -21,17 +21,18 @@ const answers = [];
 
 process.stdin.on("data", data => { // Arrow function, que está com ocomando stdin.on() que serve para capturar os dados no terminal .
 
-    /* Aqui ocomando está fazendo o mesmo que a linha comentada abaixo, e colocando as respostas no array com o comando push. */
+    /* Aqui o comando está fazendo o mesmo que a linha comentada abaixo, e colocando as respostas no array com o comando push. */
+    /* Aqui estamos pegando os dados digitados via terminal, tranformando em String com o comando toString(), e eliminando os espaços com o comando trim(). */
     answers.push(data.toString().trim() + "\n");
 
     if(answers.length < questions.length) {
 
-        ask(answers.length)
+        ask(answers.length) // Aqui se está condição for atendida, a função ask(), vai receber todas as respostas que foram inseridas no terminal, para ser imprimida no terminal. 
 
     }else {
 
         console.log(answers);
-        process.exit();
+        process.exit(); // Esse comando/função fecha a entrada de dados do terminal após a inserção do dado.
     }
 
     /* Aqui estamos pegando os dados digitados via terminal, tranformando em String com o comando toString(), e eliminando os espaços com o comando trim(). */
