@@ -25,3 +25,11 @@
 - Instalando dependências globais
 - Gerenciando versões das dependências
 - Removendo pacotes
+
+# Módulo BestMe App: Interagindo com o aplicativo
+
+- [O que vamos aprender?](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
+- [Apresentando as perguntas com process.stdout.write](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
+- [Recebendo dados de entrada e assincronismo com process.stdin.on](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
+- [Lógica para apresentar perguntas e salvar respostas](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
+- [Finalizando e revisando](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
