@@ -33,3 +33,10 @@
 - [Recebendo dados de entrada e assincronismo com process.stdin.on](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
 - [Lógica para apresentar perguntas e salvar respostas](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
 - [Finalizando e revisando](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/BestMe-App-interagindo-com-o-aplicativo/index.js)
+
+# Módulo Timers
+
+- [setTimeout](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/setTimeout.js)
+- [clearTimeout](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/clearTimeout.js)
+- [setInterval](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/setInterval.js)
+- [clearInterval](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/clearInterval.js)
