@@ -10,7 +10,6 @@
 - [Passando flags como argumento](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/flags.js)
 - Apresentação do desafio
 - [Resolução do desafio](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Iniciando-na-pratica/greetings.js)
-- Finalizando o módulo
 
 # Módulo Npm Node package manager
 
