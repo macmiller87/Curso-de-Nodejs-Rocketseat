@@ -38,3 +38,11 @@
 - [clearTimeout](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/clearTimeout.js)
 - [setInterval](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/setInterval.js)
 - [clearInterval](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Timers/clearInterval.js)
+
+# Módulo Events
+
+- [Event Module](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events.js)
+- [Event Emitter](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events.js)
+- [Emitindo eventos](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events.js)
+- [Ouvindo e executando ações para eventos](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events.js)
+- [Herdando do EventEmitter](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events2.js)
