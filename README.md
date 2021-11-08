@@ -46,3 +46,6 @@
 - [Emitindo eventos](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events.js)
 - [Ouvindo e executando ações para eventos](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events.js)
 - [Herdando do EventEmitter](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Eventss/events2.js)
+
+# Módulo Curso-de-Nodejs-e-EJS-Html-inteligente
+
