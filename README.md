@@ -49,3 +49,6 @@
 
 # Módulo Curso de Nodejs e EJS Html inteligente
 
+- [Criando o Html](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/tree/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views)
+- [Criando o servidor](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Curso-de-Nodejs-e-Ejs-html-inteligente/server.js)
+- [Separando por partes do layout](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/tree/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views)
