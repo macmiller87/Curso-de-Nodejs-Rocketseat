@@ -5,12 +5,12 @@ app.set("view engine", "ejs"); // Aqui está sendo passado os parametros para o 
 
 app.get("/", function (req, res) { // Aqui está sendo criado a rota do arquivo para ser renderizado, com os parametros req, de requisição e res de resposta.
 
-    res.render("index");
+    res.render("pages/index");
 });
 
 app.get("/sobre", function (req, res) { 
 
-    res.render("about");
+    res.render("pages/about");
 });
 
 app.listen(8080); // Aqui está sendo passado o endereço da porta que será rodado a aplicação.
