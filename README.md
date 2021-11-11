@@ -54,3 +54,5 @@
 - [Separando por partes do layout](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/tree/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views)
 - [Nova página e menu](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views/partials/header.ejs)
 - [Views e partials (organização)](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/tree/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views)
+- [Passando um objeto para EJS](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/tree/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views/pages)
+- [Foreach](https://github.com/macmiller87/Curso-de-Nodejs-Rocketseat/blob/main/Curso-de-Nodejs-e-Ejs-html-inteligente/views/pages/index.ejs)
