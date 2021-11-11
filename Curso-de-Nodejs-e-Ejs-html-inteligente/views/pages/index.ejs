@@ -5,13 +5,24 @@
 <html lang="pt-br">  
 <body class="container">
 
-    <%- include('../partials/header'); %>
+    <%- include('../partials/header', {pagina: 'Home'}); %> <!-- Sempre que incluir um objeto na chamada de um arquivo EJS, obrigatóriamente tem que se passar esse objeto e a pagina que vai ser renderizada, igual no exemplo {pagina: 'Home'} -->
 
     <main>
         <div class="jumbotron">
             <h1>Node com EJS</h1>
             <p>Vamos aprender a trabalhar com arquivos EJS</p>
+            <p><%= subtitle %></p>
         </div>
+
+        <ul>
+            <% qualitys.forEach(function(quality){ %> <!-- Aqui está sendo feito um loop com o forEach, e passando a qualitys que recebeu o array de items, no arquivo server.js, ai está sendo criada uma função anônima para executar a troca do texto no index.ejs -->
+
+                <li>
+                    <strong><%= quality.title %></strong><%= quality.message %> <!-- Todo codigo javascript tem que estar dentro das tag <% %> para poder ser utilizado nos arquivos EJS-->
+                </li>
+
+           <% }) %>  
+        </ul>
     </main>
 
     <%- include('../partials/footer'); %>

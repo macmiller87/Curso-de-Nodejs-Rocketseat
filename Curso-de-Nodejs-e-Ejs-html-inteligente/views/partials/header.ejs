@@ -1,4 +1,5 @@
 <header>
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="/">EJS</a>
         <ul class="navbar-nav mr-auto">
@@ -10,4 +11,8 @@
             </li>
         </ul>
     </nav>
+
+   <p>Página: <%- pagina %> </p> <!-- Aqui está sendo feita a continuação do que foi feito na chamada do arquivo about.ejs -->
+   <!-- <p>Página: <%= typeof pagina != 'undefined' ? pagina: 'Home' %></p> // Aqui foi feito uma lógica que se a pagina for igual a undefined, então vai ser renderizado a Home, isso pode ser usado quando não estamos utilizando o exemplo acima que está comentado -->
+
 </header>
